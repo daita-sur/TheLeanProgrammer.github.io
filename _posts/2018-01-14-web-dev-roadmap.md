@@ -1,8 +1,8 @@
 ---
 title:  "A practical road-map for web development"
-header:
-  image: /assets/images/blog1/webdev.jpeg
-  og_image: /assets/images/blog1/webdev.jpeg
+# header:
+#   image: /assets/images/blog1/webdev.jpeg
+#   og_image: /assets/images/blog1/webdev.jpeg
 categories:
   - Web Development
 tags:
@@ -20,12 +20,15 @@ tags:
 >  Read this short, to the point article as it guides you through how you should approach towards web development.
 
 So you are a beginner having no knowledge about this field.
-**No Problem. **This article will remove all your doubts regarding how you should start web development. It is written in an easily understandable language and practical steps which can help you start with web development.
 
-**Why do I write?
-**The main reason is that I am also a web developer, willing to help all the aspiring web-developers out there who want to step into this community of developers, but need a mentor. I committed many mistakes when I was a beginner, and I don’t want anyone else to make the same mistake which I made.
-“*You don’t have to be great to start, 
-but you have to start to be great.”
+**No Problem** - This article will remove all your doubts regarding how you should start web development. It is written in an easily understandable language and practical steps which can help you start with web development.
+
+**Why do I write?**
+
+The main reason is that I am also a web developer, willing to help all the aspiring web-developers out there who want to step into this community of developers, but need a mentor. I committed many mistakes when I was a beginner, and I don’t want anyone else to make the same mistake which I made.
+
+*“You don’t have to be great to start, <br/>but you have to start to be great.”*
+
 **Let’s Start This Awesome Journey Of Web Development.***
 
 ## ROADMAP
