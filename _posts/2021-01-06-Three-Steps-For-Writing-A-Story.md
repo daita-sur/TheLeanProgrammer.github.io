@@ -1,5 +1,8 @@
 ---
 title:  "Three steps for writing a story that inspires."
+header:
+  image: /assets/images/3_storytelling/cover.png
+  og_image: /assets/images/3_storytelling/webdev.png
 categories:
   - Branding
 tags:
@@ -12,11 +15,11 @@ tags:
 
 ## Three steps for writing a story that inspires.
 
-### Human beings are bad at remembering facts, but good at remembering stories.
+> Human beings are bad at remembering facts, but good at remembering stories.
 
 ![](https://cdn-images-1.medium.com/max/2800/1*lDByxikI7aChjGZkMoPFnw.png)
 
-> # “Those who tell stories rule society.” — Plato
+> “Those who tell stories rule society.” — Plato
 
 Let me ask you 2 questions —
 
