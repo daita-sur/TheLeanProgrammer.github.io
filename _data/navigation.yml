@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "All Blogs"
-    url: "/posts/"
+  - title: "Blog"
+    url: "/blog/"
   - title: "Subscribe"
     url: "https://tinyletter.com/TheLeanProgrammer/"
   # - title: "Sample Posts"
