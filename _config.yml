@@ -22,7 +22,7 @@ subtitle: "Uplifting the student community in the field of tech and personal gro
 name: "Madhav Bahl"
 description: "Madhav has been continuously working to uplift the student community. Find more about his work and initiatives here."
 url: "https://theleanprogrammer.com"
-baseurl: "/"
+baseurl: # the subpath of your site, e.g. "/blog"
 repository: "TheLeanProgrammer/TheLeanProgrammer.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/tlp_black.png"
