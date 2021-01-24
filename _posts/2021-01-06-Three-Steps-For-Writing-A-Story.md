@@ -1,16 +1,18 @@
 ---
 title:  "Three steps for writing a story that inspires."
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 header:
   image: /assets/images/3_storytelling/cover.png
   og_image: /assets/images/3_storytelling/webdev.png
 categories:
-  - Branding
+  - branding
 tags:
   - Branding
   - Storytelling
   - Personal Branding
   - Marketing
   - Outreach
+toc: true
 ---
 
 ## Three steps for writing a story that inspires.

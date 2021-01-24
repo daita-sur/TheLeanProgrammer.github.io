@@ -1,16 +1,18 @@
 ---
 title:  "A practical road-map for web development"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 # header:
 #   image: /assets/images/blog1/webdev.jpeg
 #   og_image: /assets/images/blog1/webdev.jpeg
 categories:
-  - Web Development
+  - webdev
 tags:
   - Web Dev
   - Programming
   - Development
   - Coding
   - Tutorial
+toc: true
 ---
 
 ## A practical road-map for web development.

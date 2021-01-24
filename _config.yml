@@ -68,6 +68,8 @@ bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
 
+include: ["_pages"]
+
 # Social Sharing
 twitter:
   username: "MadhavBahlMD"
@@ -94,7 +96,7 @@ analytics:
 author:
   name: "Madhav Bahl"
   avatar: "/assets/images/circle_dp.png"
-  bio: "Software Engineer at Microsoft"
+  bio: "Software Engineer at Microsoft, Uplifting the student community in the field of tech and personal growth."
   location: "India"
   email:
   links:
@@ -263,3 +265,35 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
