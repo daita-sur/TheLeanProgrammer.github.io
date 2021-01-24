@@ -1,6 +1,6 @@
 ---
 title:  "Three steps for writing a story that inspires."
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Human beings are bad at remembering facts, but good at remembering stories."
 header:
   image: /assets/images/3_storytelling/cover.png
   og_image: /assets/images/3_storytelling/webdev.png
@@ -293,8 +293,12 @@ The best thing about this video is how they promote the search engine in a subtl
 
 Next time when you see an ad, remember and try to relate the 3 steps I told you in this blog.
 
-That’s it, I hope you enjoyed this article. I publish weekly newsletters on self-help, productivity, and personal growth, do subscribe to it to hear from me every week.
+***
 
-![[https://tinyletter.com/TheLeanProgrammer](https://tinyletter.com/TheLeanProgrammer)](https://cdn-images-1.medium.com/max/2000/0*a2Ae-EsSZaGiOlts.png)
+That’s it, I hope you liked the article. 
 
-Thanks for reading till the end, I hope you liked the article. Do let me know how you implemented these techniques and if they helped you write your own unique brand story, I would love to hear your experiences.
+I publish weekly newsletters on self-help, productivity, and personal growth, do subscribe to it to hear from me every week.
+
+[![[https://tinyletter.com/TheLeanProgrammer](https://tinyletter.com/TheLeanProgrammer)](https://cdn-images-1.medium.com/max/2000/1*zVzkU6dpMCHNviaY9TtmTA.png)](https://tinyletter.com/TheLeanProgrammer)
+
+Feel free to reach out to me anytime if you want to discuss something :D

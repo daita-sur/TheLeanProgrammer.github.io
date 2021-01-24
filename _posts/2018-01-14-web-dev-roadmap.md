@@ -1,9 +1,9 @@
 ---
 title:  "A practical road-map for web development"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-# header:
-#   image: /assets/images/blog1/webdev.jpeg
-#   og_image: /assets/images/blog1/webdev.jpeg
+excerpt: "Read this short, to the point article as it guides you through how you should approach towards web development."
+header:
+  image: /assets/images/blogs/ambition/cover.png
+  og_image: /assets/images/blogs/ambition/cover.png
 categories:
   - webdev
 tags:
@@ -316,3 +316,11 @@ LinkedIn: [https://www.linkedin.com/in/madhavbahl/](https://www.linkedin.com/in/
 ## References
 
 * [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+***
+
+That’s it, I hope you liked the article. I wish all of you a happy and peaceful life. Enjoy your weekend.
+
+[![[https://tinyletter.com/TheLeanProgrammer](https://tinyletter.com/TheLeanProgrammer)](https://cdn-images-1.medium.com/max/2000/1*zVzkU6dpMCHNviaY9TtmTA.png)](https://tinyletter.com/TheLeanProgrammer)
+
+Feel free to reach out to me anytime if you want to discuss something :D

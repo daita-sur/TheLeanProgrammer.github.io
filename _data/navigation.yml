@@ -4,6 +4,8 @@ main:
     url: "/blog/"
   - title: "Subscribe"
     url: "https://tinyletter.com/TheLeanProgrammer/"
+  - title: "YouTube"
+    url: "https://theleanprogrammer.com/#youtube"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
