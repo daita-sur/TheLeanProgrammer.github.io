@@ -5,7 +5,7 @@ header:
   image: /assets/images/blogs/ambition/cover.png
   og_image: /assets/images/blogs/ambition/cover.png
 categories:
-  - webdev
+  - tech
 tags:
   - Web Dev
   - Programming

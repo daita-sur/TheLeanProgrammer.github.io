@@ -5,7 +5,7 @@ header:
   image: /assets/images/blogs/3advice/cover.png
   og_image: /assets/images/blogs/3advice/cover.png
 categories:
-  - programming
+  - tech
 tags:
   - programming
   - computer-science

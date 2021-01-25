@@ -5,10 +5,10 @@ header:
   image: /assets/images/blogs/no/cover.png
   og_image: /assets/images/blogs/no/cover.png
 categories:
-  - productivity
+  - selfhelp
 tags:
   - productivity
-  - self-help
+  - selfhelp
   - growth
   - ambitions
   - time-management

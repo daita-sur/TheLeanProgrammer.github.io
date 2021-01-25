@@ -5,10 +5,10 @@ header:
   image: /assets/images/blogs/bestlearner/cover.png
   og_image: /assets/images/blogs/bestlearner/cover.png
 categories:
-  - productivity
+  - selfhelp
 tags:
   - productivity
-  - self-help
+  - selfhelp
   - growth
   - ambitions
   - goals
