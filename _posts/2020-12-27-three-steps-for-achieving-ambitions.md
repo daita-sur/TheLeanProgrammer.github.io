@@ -31,7 +31,7 @@ In this blog, I am going to tell you the five steps that can help you fulfill al
 
 Simply put, if life was a ladder, the individual steps can be seen as the goals, and the destination where the ladder takes you, can be seen as the dream or ambition.
 
- <iframe src="https://giphy.com/embed/l0ExohcCeHtXFLpFS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <iframe src="https://giphy.com/embed/l0ExohcCeHtXFLpFS" width="360" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Let me explain using 2 examples (and I will keep coming back to these two examples in each step).
 

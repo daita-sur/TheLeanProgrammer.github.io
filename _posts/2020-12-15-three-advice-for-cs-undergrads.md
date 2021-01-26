@@ -32,7 +32,7 @@ So in this blog, I am going to tell you 3 things that you should absolutely thin
 
 Computer science is one field full of rumors, and I bet you might have come across many. The bad thing about these rumors is that they make us confused about the decisions we take.
 
-<iframe src="https://giphy.com/embed/l3q2LMNeX7xMedAWI" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/l3q2LMNeX7xMedAWI" width="360" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Let’s have a look at a few which I used to hear while I was in college -
 
@@ -60,7 +60,7 @@ Although every rumor has some story associated with it and some truth from which
 
 You wouldn’t give up on eating or having dinner just because someone starts a rumor that eating “dinner” makes you fat. Would you?
 
-<iframe src="https://giphy.com/embed/Y2hsHzLqF3kuC4U29G" width="480" height="314" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/Y2hsHzLqF3kuC4U29G" width="360" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Although there might be some truth associated with it, overeating at night time might increase your body fat, but that doesn’t mean you should stop eating dinner.
 
@@ -108,7 +108,7 @@ College is the best time to explore things, once college life is over your respo
 
 So while you are still in college, try to learn as much as you can, try to explore as many new domains, new fields, new career opportunities, new places to travel as you can.
 
-<iframe src="https://giphy.com/embed/l4KibOaou932EC7Dy" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/l4KibOaou932EC7Dy" width="360" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Although this advice is valid for many scenarios, I would like to narrow it down to keep in mind that we are talking about computer science here.
 
@@ -159,7 +159,7 @@ All of this, plus a taste of my own style is what makes my skills unique, and th
 
 No, don’t get me wrong, I am not asking you to be a hardcore competitive programmer, not everyone can be one, not everyone enjoys it.
 
-<iframe src="https://giphy.com/embed/26hishnZ9EcHI6eiY" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/election2016-election-2016-presidential-debate-26hishnZ9EcHI6eiY">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26hishnZ9EcHI6eiY" width="360" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/election2016-election-2016-presidential-debate-26hishnZ9EcHI6eiY">via GIPHY</a></p>
 
 Topics like Data Structures and Algorithms are the core of Computer Science, it’s completely fine if you aren’t an expert, but don’t ignore their importance.
 

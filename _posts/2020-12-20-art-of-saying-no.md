@@ -28,7 +28,7 @@ No matter what the reason, it’s obvious that we can’t say yes to everything 
 
 ### So what’s the solution?
 
-<iframe src="https://giphy.com/embed/MB6mmz21wDPZc2827I" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/MB6mmz21wDPZc2827I" width="360" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Saying “No” can be difficult, but we can do that without making the other person feel bad or alienated, and in this blog, I am going to tell you three simple techniques using which you can say “no” without sounding rude or alienating others.
 

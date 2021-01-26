@@ -30,7 +30,7 @@ The principle behind this method is : ***“The Teacher Learns The Most”.***
 
 Teaching others what you have to learn is the magical trick that will make you an expert at the selected topic.
 
-<iframe src="https://giphy.com/embed/vVKqa0NMZzFyE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/vVKqa0NMZzFyE" width="360" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Without wasting any more time let’s get started and learn how we can implement and incorporate this technique in our lives.
 
