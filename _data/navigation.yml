@@ -5,7 +5,9 @@ main:
   - title: "Subscribe"
     url: "https://tinyletter.com/TheLeanProgrammer/"
   - title: "YouTube"
-    url: "https://theleanprogrammer.com/#youtube"
+    url: "/#youtube"
+  - title: "Contact"
+    url: "/#contact"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
