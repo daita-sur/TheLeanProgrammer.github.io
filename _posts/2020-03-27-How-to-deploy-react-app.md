@@ -5,7 +5,7 @@ header:
   image: /assets/images/blogs/deployreact/cover.png
   og_image: /assets/images/blogs/deployreact/cover.png
 categories:
-  - texh
+  - tech
 tags:
   - react
   - tech
