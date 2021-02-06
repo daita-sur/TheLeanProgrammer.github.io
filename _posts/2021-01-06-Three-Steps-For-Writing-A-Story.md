@@ -3,7 +3,7 @@ title:  "Three steps for writing a story that inspires."
 excerpt: "Human beings are bad at remembering facts, but good at remembering stories."
 header:
   image: /assets/images/3_storytelling/cover.png
-  og_image: /assets/images/3_storytelling/webdev.png
+  og_image: /assets/images/3_storytelling/cover.png
 categories:
   - branding
 tags:
