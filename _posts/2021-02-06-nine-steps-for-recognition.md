@@ -13,7 +13,7 @@ tags:
   - Personal Growth
   - Effectiveness
 toc: true
-# permalink: /posts/undervalued
+permalink: /blog/undervalued
 ---
 
 
