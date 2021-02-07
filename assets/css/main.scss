@@ -7,14 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__title {
-  text-align: center;
-}
-
-.hero-button-main-page-1 {
-  text-align: center;
-}
-
 #contact {
   // padding: 50px 15px;
   // background: #3498db;
@@ -97,4 +89,50 @@
 
 #contact-form button:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.hero-button-main-page-1 {
+  // text-align: center;
+  // margin-top: 320px;
+  // box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.hero-button-main-page-1 a {
+  // color: #3d4144 !important;
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  border-color: black;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.page__title {
+  // text-align: center;
+  color: #2a2c2e !important;
+}
+
+.page__lead {
+  color: #2a2c2e !important;
+  text-shadow: none !important;
+}
+
+@media only screen and (max-width: 525px) {
+  .hero-cover-design {
+    background-image: url("/assets/images/home/c3.png") !important;
+  }
+
+  .page__title {
+    display: none;
+  }
+
+  .page__lead {
+    display: none;
+  }
+
+  .hero-button-main-page-1 {
+    text-align: center;
+    margin-top: 320px;
+  }
+
+  .hero-button-main-page-1 a {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+  }
 }
