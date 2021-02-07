@@ -26,7 +26,8 @@ permalink: /blog/undervalued
 You work very hard, you love your friends and the people in your direct network, and you really want them to acknowledge your presence. But, you feel that you aren’t being noticed by your friends, valued by your colleagues, and not getting enough attention in your work/organization?
 
 If you feel so, don’t worry, you are not alone. As a matter of fact, most of the people whom I know either have faced this in their lives or are currently facing this issue. You must have heard this quote —
-> # **“A prophet is not honoured in his own country.”**
+
+> **“A prophet is not honoured in his own country.”**
 
 It’s never a good idea to judge your self-worth by other’s opinions. But, if you want growth, you will have to take feedback and work on it.
 
@@ -41,15 +42,17 @@ So if you are going through this phase, let me help you out. Here are 9 ways you
 
 ![Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/fame?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*CC_VeQwzrwZC-cH7)
 
-I started this blog with this quote — *“A prophet is not honored in his own country.” *and that’s something many of us might agree on from our own individual experiences.
+I started this blog with this quote — *“A prophet is not honored in his own country.”* and that’s something many of us might agree on from our own individual experiences.
 
 Many times, we put in a lot of hard work, go beyond what we are told, but fail to get recognized for those efforts we put in.
 
 Do you remember this amazing quote from Jack Ma —
-> # “When doing Sales, the first people who will trust you will be Strangers.
-> # Friends will be shielding against you, fair-weather friends will distance from you. Family will look down upon you”
 
-Unfortunate, but true. Most of the time, the people closest to us fail to understand our true value, and in this scenario increasing your value *outside *your direct-network can make a HUGE difference.
+> “When doing Sales, the first people who will trust you will be Strangers.
+> 
+> Friends will be shielding against you, fair-weather friends will distance from you. Family will look down upon you”
+
+Unfortunate, but true. Most of the time, the people closest to us fail to understand our true value, and in this scenario increasing your value *outside* your direct-network can make a HUGE difference.
 
 Think about these two scenarios,
 
@@ -88,9 +91,11 @@ This involves some work, but it’s something that can give you huge returns,
 One of my classmates (during college) who didn’t know me personally, faced a tough time in understanding the OSI Model Layers.
 
 He googled about it and found an article which he loved. That was my article, and after reading that he reached out to me. This was a very simple example of how you can increase your network, and your value in your direct-network, by getting known outside your direct-network.
-> # It’s always about providing value!
+
+> It’s always about providing value!
 
 ## 2. Highlight your background in first interaction
+
 >  First impression is the last impression
 
 ![Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/talk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*gQWJV4P6wXvdx_os)
@@ -126,12 +131,18 @@ From now, follow this simple technique, send a small email a couple of days befo
 * Tell them what you’d also like to discuss during or after the meeting
 
 * End with humble greetings.
+
 >  **Subject**: Regarding our meeting on Monday
-**Content**:
-… Tell about yourself
-… Summarize your career capital
-… Any specific topics you’d want to discuss 
-… Humble greetings
+>
+> **Content**:
+>
+> … Tell about yourself
+> 
+> … Summarize your career capital
+> 
+> … Any specific topics you’d want to discuss 
+> 
+> … Humble greetings
 
 ## 3. Include transparency in your core values
 >  Low Transparency = Low Trust
@@ -159,6 +170,7 @@ But, if you are straight to the point, and share things that should be shared, y
 * Don’t beat around the bush
 
 ## 4. Stay relevant
+
 >  Don’t beat around the bush
 
 ![Photo by [Raychan](https://unsplash.com/@wx1993?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/point?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*8rQ1DKO3ZOKwN1zW)
@@ -192,13 +204,14 @@ Here are some tips from my side
 When you stay relevant to the topic, value others’ time, and share ideas for growth, they will implicitly start respecting you.
 
 ## 5. Be generous
+
 >  “You have not lived today until you have done something for someone who can never repay you.” — John Bunyan
 
 ![Photo by [Elaine Casap](https://unsplash.com/@ecasap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/generous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*-_jziSc37Mjw3Cws)
 
 Generosity is the first requirement for building strong relations.
 
-When you do something for others, without expecting anything in return, you earn their respect.
+When you do something for others, without expecting anything in return, you earn respect.
 
 Ask yourself,
 
@@ -231,6 +244,7 @@ When you offer something without asking anything in return, you build strong rel
 For the next 20 days, send an appreciation email to an old friend, or a colleague, anyone close to you, or anyone who has ever helped you in any way. Are you in?
 
 ## 6. Avoid asking for help when you don’t really require it
+
 >  When you ask for someone’s time, respect it!
 
 ![Photo by [Jo Szczepanska](https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/diy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*ZMjUe1414EqpMTlm)
@@ -238,7 +252,8 @@ For the next 20 days, send an appreciation email to an old friend, or a colleagu
 A lot of people, as soon as they face any issue or doubt, directly reach out to someone for help.
 
 Although, it’s not bad to reach out for help, but if you are doing that for something that you could have resolved yourself, you are wasting someone else’s time.
-> # Remember, people will value you only if you value their time.
+
+> Remember, people will value you only if you value their time.
 
 ### How to do it?
 
@@ -255,6 +270,7 @@ As soon as you face any doubt/confusion, instead of directly reaching out, do th
 * If nothing works, don’t waste anymore time, reach out for help!
 
 ## 7. Offer help when others require it
+
 >  Your time is the greatest gift you can give to someone.
 
 ![Photo by [Rémi Walle](https://unsplash.com/@walre037?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/help?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/2000/0*pYD5x9Lw2x_iW9jP)
@@ -273,9 +289,9 @@ In such cases, follow the 5-minute help rule -
 
 * If it takes less than 5 minutes to answer/help, and you are free, do it!
 
-* If it takes more than 5 minutes, but the person is very important to you (might have helped you in past), do (it now) or schedule (it for some time when you are free)
+* If it takes more than 5 minutes, but the person is important to you (might have helped you in past), do (it now) or schedule (it for some time when you are free)
 
-* If it takes more than 5 minutes, but you don’t know the person and/or you don’t have much knowledge on it, delegate (or refer) to a person who might have more knowledge on this, or do it in your free time.
+* If it takes more than 5 minutes, but you don’t know the person and/or you don’t have much knowledge on the topic, delegate (or refer) to a person who might have more knowledge on this, or do it in your free time.
 
 ## 8. Take initiatives
 >  Commit less, deliver more
