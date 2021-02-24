@@ -1,6 +1,6 @@
 ---
 title:  "Three Promises Which Will Reform Your Relationship."
-excerpt: "This valentine’s day, gift your partner a better relationship by making these 3 promises."
+excerpt: "This valentine’s day, gift your partner a better relationship by making these three promises."
 header:
   image: /assets/images/blogs/valentines/cover.png
   og_image: /assets/images/blogs/valentines/cover.png
